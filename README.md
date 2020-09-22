@@ -41,7 +41,7 @@
     <img align="left" alt="Most used Languages"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroDova&layout=compact&hide_border=true"/>
 </div>
 
-[<img src="https://alejandro-dova.vercel.app/" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/12158004533?si=09jTVUQ7TkWeVaLmbR97TA)
+[<img src="https://alejandro-dova.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/12158004533?si=09jTVUQ7TkWeVaLmbR97TA)
 
 <!--
 **AlejandroDova/AlejandroDova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
