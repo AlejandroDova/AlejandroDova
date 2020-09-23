@@ -46,26 +46,4 @@
 
 [<img src="https://alejandro-dova.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/12158004533?si=09jTVUQ7TkWeVaLmbR97TA)
 
-<!--
-**AlejandroDova/AlejandroDova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-AQDY1-BF-GDHjv8ibVUP0J526qHrYMTdijGWpFLbc6ttv0Xd5k8iWQs-5C4DZawimigl5Pja66_B9bK8F2EXvmhniHgV-IuIZrFrBQaawg0mYEQwRNQbDzds0dyeI1LIMOAzK9_KnlxjgrCmDp0rr6gOLBzIF2_n7ZXoJZpHt1FdZoo9eII2EboWLr1Ptnc5oPDXfH3pOlhoS3GCpXcHrHqG9u90YxVNnKd9dLqJbgSs1_zmDcw
-
-YzM1ZjdmZDVhNDI3NGU4NDhhNDI1MDY5NGQ4Zjk1ZTM6MGM0MjY5NDRjN2NmNDc5ODg5MjAzN2NlMjBhMjJjZjY=
-
-curl -X POST -H "Content-Type: application/x-www-form-urlencoded" -H "Authorization: Basic YzM1ZjdmZDVhNDI3NGU4NDhhNDI1MDY5NGQ4Zjk1ZTM6MGM0MjY5NDRjN2NmNDc5ODg5MjAzN2NlMjBhMjJjZjY=" -d "grant_type=authorization_code&redirect_uri=http://localhost/callback/&code=AQDY1-BF-GDHjv8ibVUP0J526qHrYMTdijGWpFLbc6ttv0Xd5k8iWQs-5C4DZawimigl5Pja66_B9bK8F2EXvmhniHgV-IuIZrFrBQaawg0mYEQwRNQbDzds0dyeI1LIMOAzK9_KnlxjgrCmDp0rr6gOLBzIF2_n7ZXoJZpHt1FdZoo9eII2EboWLr1Ptnc5oPDXfH3pOlhoS3GCpXcHrHqG9u90YxVNnKd9dLqJbgSs1_zmDcw" https://accounts.spotify.com/api/token
-
-
-AQD5FBWdDN5S23fdVwuELWVNUMfL7RcH8QqtL0SSY4CJIbewdcEkcelz1CO0tBbhTx5e1D1CN_rp8aBVU0gqOmSk2DI5jgT2m8R0I9Bdgye-Og4jmuNGhq6VOHN83kOdK-4
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AlejandroDova)](https://github.com/AlejandroDova/github-readme-stats)
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I am currently learning laravel and getting deep into web design and development.
-- 📫 How to reach me: I love loyal people with hobbies
-- 😄 Pronouns: Dova
--->
