@@ -7,6 +7,9 @@
   <img align="left" alt="Mehdi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
+<br>
+<br>
+
 ### about me:
 - 🔭 I’m not currently working
 - 🌱 I am currently learning laravel and getting deep into web development and  design.
